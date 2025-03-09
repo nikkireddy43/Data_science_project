@@ -64,7 +64,7 @@ The dataset contains sensor readings such as:
 - Built a predictive model to forecast potential machine failures.
 
 ## Contributors
-- Your Name
+- P Sai Nikhitha reddy
 
 ## License
 This project is licensed under the MIT License.
