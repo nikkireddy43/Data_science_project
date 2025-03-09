@@ -68,6 +68,12 @@ The dataset contains sensor readings such as:
 
 ## License
 This project is licensed under the MIT License.
+Copyright [2025] [P.Sai Nikhitha Reddy]
+
+This project is licensed under a Proprietary License.  
+- You may not modify, distribute, or use this project commercially without written permission from the author.  
+- Any unauthorized modification or redistribution is strictly prohibited.  
+
 
 # Data_science_project
 Data Science Machine Failure Prediction 
